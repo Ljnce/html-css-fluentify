@@ -137,3 +137,13 @@ h3, .central{
 .info strong{
     color:#80b803;
 }
+
+.photo img{
+    width: 790px;
+    height: 500px;
+    object-fit: contain;
+    position: absolute;
+    top: 45%;
+    right: -15%;
+    transform: translateY(-50%);
+}
