@@ -118,6 +118,7 @@ h3, .central{
 .parte-bianca{
     height: 300px;
     width: 100%;
+    padding-bottom: 70px;
 }
 
 .info{
@@ -146,4 +147,9 @@ h3, .central{
     top: 45%;
     right: -15%;
     transform: translateY(-50%);
+}
+
+.line{
+    width: 1px;
+    border: 0.5px solid #ececec;
 }
